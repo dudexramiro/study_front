@@ -35,3 +35,15 @@ a{
     text-decoration: none ;
     font-variant: normal;
 }
+/*para class*/
+.destaque {
+    color :rgb(54, 192, 158);
+    font-weight: bold;
+}
+/*para id*/
+#titulo {
+    color : #d8910d;
+
+}
+
+
